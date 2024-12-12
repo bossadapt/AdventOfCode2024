@@ -1,11 +1,12 @@
-# Learning GO with christmas themed puzzles
+# Learning GO and C++ with christmas themed puzzles
 Thanks for checking out my repository, I will be updating the readme sporadically and code daily. Please note that the questions and input text are not included. To see the questions and inputs, you will have to visit the links found at the bottom.
 ## Why
-I seemed to ask myself more often as the puzzles got harder. The fact that GO does not have common data structures as inbuilt imports and methods are mostly external of the variables and need to be constantly imported were big hurdles at the start. However, it was a fun way to learn a language with a scoreboard at the end each day and I think I'm slowly coming  around to enjoying GO.
+I seemed to ask myself more often as the puzzles got harder. The fact that GO does not have common data structures as inbuilt imports and methods are mostly external of the variables and need to be constantly imported were big hurdles at the start. However, it was a fun way to learn a language with a scoreboard at the end each day and I think I'm slowly coming around to enjoying GO. Then I began C++, the dead rat mascot language.
 ## Personal Ranks
 ```
   	--------Part 1--------   --------Part 2--------
 Day   	Time   Rank  Score   	Time   Rank  Score
+ 12   01:51:50   9169   0   02:14:42   4658   0
  11   01:29:50  11941   0   02:50:40   9913   0
  10   01:00:32   7867   0   01:04:01   7332   0
   9   00:44:18   5633   0   04:27:39  10825   0
