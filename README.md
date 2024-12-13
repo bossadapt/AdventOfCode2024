@@ -6,6 +6,7 @@ I seemed to ask myself more often as the puzzles got harder. The fact that GO do
 ```
   	--------Part 1--------   --------Part 2--------
 Day   	Time   Rank  Score   	Time   Rank  Score
+ 13   03:00:11  11362   0   03:35:49   8519   0
  12   01:51:50   9169   0   02:14:42   4658   0
  11   01:29:50  11941   0   02:50:40   9913   0
  10   01:00:32   7867   0   01:04:01   7332   0
