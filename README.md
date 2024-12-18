@@ -4,8 +4,8 @@ Thanks for checking out my repository, I will be updating the readme sporadicall
 I seemed to ask myself more often as the puzzles got harder. The fact that GO does not have common data structures as inbuilt imports and methods are mostly external of the variables and need to be constantly imported were big hurdles at the start. However, it was a fun way to learn a language with a scoreboard at the end each day and I think I'm slowly coming around to enjoying GO. Then I began C++, the dead rat mascot language.
 ## Personal Ranks
 ```
-  	--------Part 1--------     --------Part 2--------
-Day   	Time     Rank    Score   	Time    Rank    Score
+  	--------Part 1--------   --------Part 2--------
+Day   	Time     Rank    Score Time    Rank    Score
  18   01:06:44   5519      0   01:35:34   5753      0
  17   01:37:15   6186      0          -      -      -
  16   01:47:09   5410      0          -      -      -
